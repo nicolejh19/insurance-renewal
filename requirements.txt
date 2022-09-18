@@ -1,0 +1,7 @@
+pandas
+seaborn
+scikit-learn==1.1.2
+plotly==5.10.0
+nbformat==5.5.0
+pyitlib==0.2.2
+pymongo==4.2.0
