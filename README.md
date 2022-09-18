@@ -1,1 +1,3 @@
 # insurance-renewal
+
+Notebook in Pipeline folder contains code to push the original data in a structured format into MongoDB. Notebooks in Predictive folder contains code to do exploratory data analysis and build predictive models. Assuming that the insurance company wants to identify customers who are likely to not renew in order to follow up with them to target and retain them, the positive class in this binary classification problem is the insurees who did not renew while the negative class is the insurees who did renew.
